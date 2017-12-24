@@ -37,6 +37,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Circle\PointCheck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Vector\Vector2.cs" />
     <Compile Include="Vector\Vector3.cs" />
